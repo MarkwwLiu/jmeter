@@ -1,0 +1,7 @@
+{
+    "action": "buy",
+    "amount": "600",
+    "price": "10",
+    "type": "LIMIT",
+    "timestamp": "${nonce}"
+}
